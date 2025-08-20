@@ -1,6 +1,6 @@
 # My2DAngryBird
 
-</---Link--->
+앵그리버드 시연 영상
 Click [here](https://youtu.be/Fhdfo5trg_s)
 
 ## Getting started
