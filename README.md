@@ -1,7 +1,5 @@
 # My2DAngryBird
 
-# 앵그리버드 (프로젝트명)
-
 [![시연 영상](https://img.youtube.com/vi/Fhdfo5trg_s/0.jpg)](https://www.youtube.com/watch?v=Fhdfo5trg_s)
 
 Unity 2D 물리 기반 발사 시뮬레이션과 충돌 처리를 학습하기 위한 앵그리버드 모작입니다.
