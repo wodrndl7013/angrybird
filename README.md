@@ -1,6 +1,25 @@
 # My2DAngryBird
 
-[앵그리버드 시연 영상](https://youtu.be/Fhdfo5trg_s)
+# 앵그리버드 (프로젝트명)
+
+[![시연 영상](https://img.youtube.com/vi/Fhdfo5trg_s/0.jpg)](https://www.youtube.com/watch?v=Fhdfo5trg_s)
+
+Unity 2D 물리 기반 발사 시뮬레이션과 충돌 처리를 학습하기 위한 앵그리버드 모작입니다.
+
+## 주요 기능
+- 드래그 & 릴리스 발사 시스템
+- Rigidbody2D 기반 물리 충돌
+- 충돌 시 파괴 효과
+- (추가 가능한 항목: 점수, 게임오버 등)
+
+## 실행 방법
+1. `git clone ...`
+2. Unity 2022.3.30f1 에서 열기
+3. `Play` 버튼 클릭
+
+## 기술 스택
+- Unity 2D, C#
+- GitHub
 
 ## Getting started
 
